@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+header{
+    margin-top: 156px;
+}
+.kittenDiv{
+    max-width: 1400px;
+height: 674px;
+background: url(./images/image\ \(1\).svg);
+padding-top:39px;
+margin: 0 auto;
+}
+.kittenDiv p{
+    max-width:1258px;
+    color:#ffff;
+    font-size: 44.452px;
+    margin: 0 auto;
+}
+.lunchBox{
+    max-width: 1137px;
+padding: 40px 32px;
+border-radius: 24px;
+background: #EBF8FE;
+margin: 0 auto;
+margin-top: 115px;
+}
+.lunchBox h1{
+    font-size: 64px;
+}
+.lunchBox p{
+    color: #535862;
+margin: 24px 0;
+}
+.subscribeInput {
+border: 1px solid #D5D7DA;
+background: #FFF;
+padding: 12px 14px;
+width: 317px;
+border-radius: 8px;
+}
+.SubscribeBtn{
+    border: 2px solid #FFF;
+    background: #007CB8;
+    padding: 12px 14px;
+    color: #ffff;
+    border-radius: 8px;
+}
+.subscribeBox{
+    text-align: center;
+}
+.subscribeBox p{
+    color: #535862;
+}
+.subscribeBox p a{
+    color: #535862; 
+}
+.lunchBoxFont{
+    font-size: 32px;
+}
+.submitFormBox{
+    max-width: 546px;
+padding: 40px 32px;
+margin: 0 auto;
+margin-top: 72px;
+margin-bottom: 107px;
+border-radius: 24px;
+background: #EBF8FE;
+color:#1B003D;
+}
+.formInput{
+    padding: 8px 16px;
+    border-radius: 8px;
+border: 1px solid #380054;
+display: block;
+width: 100%;
+color: #6D5F8B;
+line-height: 22px;
+}
+.submitFormBox h2{
+    font-size: 40px;
+    color:#1B003D;
+}
+.formInputs{
+    margin: 24px 0;
+}
+.formInputs label{
+    margin-bottom: 8px;
+    margin-top: 24px;
+    display: inline-block;
+    
+}
+.formInputs  p{
+    margin-bottom: 8px;
+    margin-top: 24px;
+    display: inline-block;
+    
+}
+.odinaryRadio{
+    display: block;
+    margin-top: 10px
+}
+.odinaryRadio label{
+    display: inline;
+    margin-left: 10px;
+}
